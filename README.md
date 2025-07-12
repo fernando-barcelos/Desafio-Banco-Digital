@@ -29,7 +29,3 @@ O projeto contempla:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Fernando Barcelos**, como parte da formação Java na DIO.
-
----
-
-Curtiu esse formato? Posso te ajudar a incluir instruções de execução ou até criar imagens explicativas da arquitetura se quiser dar um toque visual ao projeto.
